@@ -38,3 +38,18 @@ GitHub Pages에서 이미지와 표를 사용할 경우 캡션을 표시할 수 
 - 복잡한 표는 만들 수 없음
 - 웹에서 표를 제시할 때는 간략하게 제시하시고, 복잡한 형태의 표(자세한) 것들은 가능하면 이미지로 제공
 - 원본 기사(PDF, 출판물)이 존재한다면 해당 표를 설명하는 과정에서 원본 기사를 Ref를 제시하거나, PDF의 링크를 제공
+
+## 사이트 기능 추가
+
+### 댓글
+- `https://disqus.com/` 가입
+- `...install on my site...` 선택 후 
+- 사이트 개설(shortname) 설정
+- `_config.yml`에 붙여넣기(shortname)
+- disqus > admin > advenced > Trusted Domain 설정
+        - [id].github.io
+
+### GA4
+- `https://marketingplatform.google.com/intl/ko/about/analytics/`
+- GA4 관련 스트림ID를 발급 후
+- `_config.yml`에 설정
