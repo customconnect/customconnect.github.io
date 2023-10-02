@@ -1,29 +1,15 @@
-#
-# This file contains configuration flags to customize your site
-#
-
-# Name of your site (displayed in the header)
-name: John, Doe
-
-# Short bio or description (displayed in the header)
-description: Dolore non veniam ex pariatur est.
-
-# URL of your avatar or profile pic (you could use your GitHub profile pic)
+name: CustomConnect
+description: 기계식 키보드의 펌웨어, 소규모 하드웨어의 이런 저런 기술적인 이야기를 전달하는 곳 입니다.
 avatar:
-
-#
-# Flags below are optional
-#
-
 timezone: Asia/Seoul
 
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: customconnect.dev@gmail.com
   facebook:
   flickr:
-  github:
+  github: customconnect
   instagram:
   linkedin:
   pinterest:
