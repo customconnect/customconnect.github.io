@@ -115,6 +115,22 @@ img {
   color: $gray;
 }
 
+table{
+  border-collapse: collapse;
+  border:1px solid #ff0000;
+  width: 100%;
+  text-align: center;
+}
+
+th {
+  border:1px solid #000000;
+  background-color: yellow;
+}
+
+td {
+  border:1px solid #000000;
+}
+
 // Specify the color of the selection
 ::-moz-selection {
   color: $black;
